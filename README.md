@@ -3,9 +3,11 @@ Universal javascript screencasts
 
 This is the repo for Max Polun's javascript screencasts.
 
-* [Playlist](insert playlist url here)
+* [Playlist](https://www.youtube.com/playlist?list=PLVTuErcZ9kPIon7HztSMyHdjJOkl0oGpi)
 
 ## Episode list
+
+* [Episode 0: Introduction and initial setup](https://www.youtube.com/watch?v=qsZrAIT6IFc&index=1&list=PLVTuErcZ9kPIon7HztSMyHdjJOkl0oGpi)
 
 ## Roadmap
 
