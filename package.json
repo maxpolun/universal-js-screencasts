@@ -1,0 +1,22 @@
+{
+  "name": "universal-js-screencasts",
+  "version": "1.0.0",
+  "description": "A series of screencasts on universal javascript",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxpolun/universal-js-screencasts.git"
+  },
+  "author": "Max Polun <maxpolun@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxpolun/universal-js-screencasts/issues"
+  },
+  "homepage": "https://github.com/maxpolun/universal-js-screencasts#readme"
+}
