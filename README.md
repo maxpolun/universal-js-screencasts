@@ -4,7 +4,7 @@ Universal javascript screencasts
 This is the repo for Max Polun's javascript screencasts.
 
 * [Playlist](https://www.youtube.com/playlist?list=PLVTuErcZ9kPIon7HztSMyHdjJOkl0oGpi)
-* [Live demo](https://git.heroku.com/dry-reef-5755.git)
+* [Live demo](https://dry-reef-5755.herokuapp.com/)
 
 ## Episode list
 
