@@ -9,6 +9,8 @@ This is the repo for Max Polun's javascript screencasts.
 ## Episode list
 
 * [Episode 0: Introduction and initial setup](https://www.youtube.com/watch?v=qsZrAIT6IFc&index=1&list=PLVTuErcZ9kPIon7HztSMyHdjJOkl0oGpi)
+* [Episode 1: Getting a server running](https://www.youtube.com/watch?v=DU-PiTN5K5w&list=PLVTuErcZ9kPIon7HztSMyHdjJOkl0oGpi&index=2)
+* [Episode 2: Intro to react](https://www.youtube.com/watch?v=1qSljZUdOAA&list=PLVTuErcZ9kPIon7HztSMyHdjJOkl0oGpi&index=3)
 
 ## Roadmap
 
