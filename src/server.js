@@ -1,18 +1,18 @@
-'use strict';
+'use strict'
 
-let express = require('express');
-let app = express();
+let express = require('express')
+let app = express()
 
 require('babel-register')({
   presets: ['es2015', 'react']
-});
+})
 
-let React = require('react');
-let ReactDOMServer = require('react-dom/server');
-let Hello = require('./app/components/Hello').default;
+let React = require('react')
+let ReactDOMServer = require('react-dom/server')
+let Hello = require('./app/components/Hello').default
 
 app.get('/', (req, res) => {
-  let html = ReactDOMServer.renderToString(React.createElement(Hello, null));
+  let html = ReactDOMServer.renderToString(React.createElement(Hello, null))
   res.send(
 `<!DOCTYPE html>
 <html>
@@ -22,13 +22,13 @@ app.get('/', (req, res) => {
   <script src="/bundle.js"></script>
 </body>
 </html>
-`);
-});
+`)
+})
 
-app.use(express.static('public'));
+app.use(express.static('public'))
 
-let port = process.env.PORT || 8080;
+let port = process.env.PORT || 8080
 
 app.listen(port, () => {
-  console.log(`--- started server on port ${port} ---`);
-});
+  console.log(`--- started server on port ${port} ---`)
+})

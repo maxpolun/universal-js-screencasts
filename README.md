@@ -11,13 +11,14 @@ This is the repo for Max Polun's javascript screencasts.
 * [Episode 0: Introduction and initial setup](https://www.youtube.com/watch?v=qsZrAIT6IFc&index=1&list=PLVTuErcZ9kPIon7HztSMyHdjJOkl0oGpi)
 * [Episode 1: Getting a server running](https://www.youtube.com/watch?v=DU-PiTN5K5w&list=PLVTuErcZ9kPIon7HztSMyHdjJOkl0oGpi&index=2)
 * [Episode 2: Intro to react](https://www.youtube.com/watch?v=1qSljZUdOAA&list=PLVTuErcZ9kPIon7HztSMyHdjJOkl0oGpi&index=3)
+* [Episode 3: Nodemon](https://www.youtube.com/watch?v=9wczjuigcQc&index=4&list=PLVTuErcZ9kPIon7HztSMyHdjJOkl0oGpi)
 
 ## Roadmap
 
 I've got a rough roadmap, but things can change depending on feedback.
 
 I've got several different "chapters" -- loose groups of functionality. I'm not going to move
-lineraly, but kind of jump around while making the videos. So there are two ways to view these:
+linerly, but kind of jump around while making the videos. So there are two ways to view these:
 In the order they were made, or in topic order. The rough topic order is below:
 
 ### Chapter 1: server / API development
